@@ -1,0 +1,45 @@
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+}
+
+.App-header {
+  background-image: var(--backgroundImg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.page-content {
+  padding: 3vh;
+}
+
+.blogentry {
+  padding-bottom: 3vh;
+}
+
+.blogdate {
+  font-style: italic;
+}
+
+.content-in-iframe {
+  min-width: 95vw;
+  min-height: 85vh;
+}

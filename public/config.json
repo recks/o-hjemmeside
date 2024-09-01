@@ -1,0 +1,39 @@
+{
+    "navn": "MTBO DM Mellem 2024",
+    "dato": "24/6 2024",
+    "sted": "Grenå Plantage",
+    "beskrivelse": "Orienteringsløb, orienteering, mtb, mountainbike",
+    "img": "/baggrund.JPG",
+    "logo": "/logo.svg",
+    "facebook": "https://fb.me/e/47tKUhKH5",
+    "menu": 
+        [
+            { "titel": "Før løb", "indhold": 
+                [ 
+                    { "titel": "Skovlukning", "indhold": "skovlukning"},
+                    { "titel": "Indbydelse", "indhold": "Indbydelse.pdf"},
+                    { "titel": "Instruktion", "indhold": "Instruktion/Instruktion.html"}
+                ]
+            },
+            { "titel": "Under løb", "indhold": 
+                [ 
+                    { "titel": "Live resultater", "indhold": "https://liveresultat.orientering.se/followfull.php?comp=29819&lang=sv"}
+                ]
+            },
+            { "titel": "Efter løb", "indhold":
+                [
+                    { "titel": "Resultater", "indhold": "" },
+                    { "titel": "O-result", "indhold": "" },
+                    { "titel": "Stræktider", "indhold": "" }
+                ]
+            },
+            { "titel": "Kontakt", "indhold": "kontakt"}
+        ],
+    "sponsors":
+        [
+            { "img": "condeslogo-bw-neg.png", "link": "https://www.condes.net/" },
+            { "img": "Løberen-bw.png", "link": "https://www.loberen.dk/" },
+            { "img": "trimtex-neg.png", "link": "https://trimtex.dk/" }
+        ]
+}
+

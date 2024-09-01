@@ -1,0 +1,7 @@
+<h2>Stævneleder</h2>
+<address>
+    Kent Lodberg<br/>
+    Bushøjvej 211, 8270 Højbjerg<br/>
+    Tlf: 6070 9229<br/>
+    E-mail: <a href="mailto:keloch@privat.dk">keloch@privat.dk</a>
+</address>
